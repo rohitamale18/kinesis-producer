@@ -1,6 +1,6 @@
 import tweepy
 import json
-from authorization import AWSClient, TwitterClient
+from src.authorization import AWSClient, TwitterClient
 
 
 class StreamListener(tweepy.StreamListener):

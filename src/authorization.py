@@ -1,5 +1,5 @@
 import os
-from logger import get_logger
+from src.logger import get_logger
 import boto3
 import tweepy
 

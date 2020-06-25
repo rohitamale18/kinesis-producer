@@ -1,8 +1,5 @@
-import tweepy
-import csv
-import json
 import boto3
-from authorization import AWSAuthorization, TwitterAuthorization
+from src.authorization import AWSAuthorization
 import logging
 
 
